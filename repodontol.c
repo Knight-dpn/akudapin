@@ -1,14 +1,9 @@
 #include <stdio.h>
 
+int main()
+{
 
+    printf("woe anjeng");
 
-int main(){
-
-
-
-
-
-
-
-    
+    return 0;
 }
